@@ -1,6 +1,6 @@
-# Bits and bobs
+# Bits and bots
 
-Store all my Shell scripts, bits and bobs
+Store all my Shell scripts, bits and bots
 
 ## Sheel Script
 [Output sound to the TV](https://github.com/lomira/BitsAndBobs/blob/master/audio_TV.sh)
